@@ -48,14 +48,14 @@ console.log(concatElement);
 
 // Function constructor
 
-const Aconstructor = new Array(2,4,2,5);
-console.log(Aconstructor)
+const Arregloconstructor = new Array(2,4,2,5);
+console.log(Arregloconstructor)
 
 // Function copy within
 
-const Acp = [1,2,3,4,5,6,7,8];
-let cpElement = Acp.copyWithin(0,3,5);
-console.log(cpElement);
+const Arreglocopywithin = [1,2,3,4,5,6,7,8];
+let cpElemento = Arreglocopywithin.copyWithin(0,3,5);
+console.log(cpElemento);
 
 // Function entries
 
